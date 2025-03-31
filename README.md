@@ -38,3 +38,11 @@ pip install -r requirements.txt
 4. Run the script:
 python time_series_visualizer.py
    
+
+Credit to FreeCodeCamp:
+‎These projects are based on FreeCodeCamp’s Data Analysis with Python curriculum.
+‎
+‎Feel free to contribute or modify the code for learning purposes!
+‎
+‎Author
+‎Calista Uzokwe 
